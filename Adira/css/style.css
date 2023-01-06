@@ -509,6 +509,7 @@ h5,
   display: flex;
   flex-direction: column;
   text-align: center;
+  
 }
 
 .section.has-img-bg {
@@ -726,6 +727,7 @@ h5,
 .bg-image > .container {
   position: relative;
   z-index: 1;
+  margin-right: 0rem;
 }
 
 @media (max-width: 991.98px) {
